@@ -1,0 +1,4 @@
+1. Pro spuštění webu potřebujete spustit lokální server například pomocí wamp.
+2. Ve složce www ve wamp pridejte mklink. Jako cíl dejte složku WEB, jelikož je v kódu použita absolutní adresa http://localhost/WEB/SP/src/index.php?page=???.
+3. Otevřte si phpAdmin. Přihlašte se a vytvořte si novou databázi. Do databáze si následně importujte tabulky ze složky Database.
+4. Pokud vám běží lokální server stačí si v prohlížeči otevřít tento odkaz http://localhost/WEB/SP/src/.
